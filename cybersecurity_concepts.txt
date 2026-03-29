@@ -2,3 +2,4 @@ Cybersecurity Concepts:
 - Threat Management
 - Incident Response
 - Vulnerability Assessment
+- Penetration Testing
